@@ -4,7 +4,7 @@
 
 #include <iostream>
 
-#define main16 main
+#define main16 main16
 using namespace std;
 
 int main16() {
@@ -13,4 +13,5 @@ int main16() {
         sum += a;
     }
     cout << sum;
+    return 0;
 }
