@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="10.176.25.29" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="10.176.25.29">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/wml/code" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Remote Host (2bd3c9a2-978c-475d-ad54-7c01bc45b9db)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.0yXJfqyqB6" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="Remote Host (c1bac6b5-1281-4e30-9638-072aa91c6beb)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.MR3FPDKIaa" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
